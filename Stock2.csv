@@ -1,0 +1,46 @@
+ing_name,ordered_weight,ing_weight,quantity,total_inv_weight,remaining_weight
+"Dried oregano",146,500,4,2000,1854
+"Mozzarella cheese",35270,2500,40,100000,64730
+"Tomato sauce ",17180,4500,25,112500,95320
+"Pizza dough ball (8 pack)",68200,2000,50,100000,31800
+"Chilli pepper",635,1000,4,4000,3365
+"Spicy salami",3040,3500,2,7000,3960
+"Ricotta cheese",5100,1500,10,15000,9900
+"Gorgonzola cheese",5100,3500,10,35000,29900
+"Parmesan cheese",8630,2500,10,25000,16370
+"Caesar dressing",740,3800,5,19000,18260
+"Romain lettuce",3700,7500,5,37500,33800
+Croutons,1850,1250,5,6250,4400
+"Rotisserie chicken pieces",4440,5000,5,25000,20560
+"Strawberry ice cream",900,4500,2,9000,8100
+"San Pelligrino 33cl",4,1,120,120,116
+Capers,133,1000,2,2000,1867
+Anchovies,1850,1000,2,2000,150
+"Pistachio ice cream",600,4500,2,9000,8400
+"Chocolate ice cream",800,4500,2,9000,8200
+"Chocolate brownie",2175,2500,2,5000,2825
+"Chicken wings",3600,6000,4,24000,20400
+"Banoffee pie",3720,1200,2,2400,-1320
+"Vanilla ice cream",800,4500,2,9000,8200
+"Coca Cola Regular 1.5l",10,1,120,120,110
+Eggplant,2580,1000,20,20000,17420
+"Coca Cola Diet 33cl",8,1,120,120,112
+Pepperoni,6320,2500,10,25000,18680
+"Coca Cola Regular 33cl",14,1,120,120,106
+Calamari,1250,2500,3,7500,6250
+Tuna,1250,2000,3,6000,4750
+Shrimp,1250,1000,10,10000,8750
+"Garlic and parsley butter",255,3000,3,9000,8745
+"Fruit salad",1500,5000,2,10000,8500
+"Perrier 1.5l",1,1,120,120,119
+"Sprite Regular 1.5l",11,1,120,120,109
+"Fanta Regular 33cl",9,1,120,120,111
+"Fanta Regular 1.5l",6,1,120,120,114
+"San Pelligrino 1.5l",9,1,120,120,111
+"Perrier 33cl",3,1,120,120,117
+Pineapple,820,5000,4,20000,19180
+Ham,1030,5000,4,20000,18970
+"Sprite Regular 33cl",3,1,120,120,117
+"Sprite Diet 33cl",1,1,120,120,119
+"Fanta Diet 1.5l",2,1,120,120,118
+"Coca Cola Diet 1.5l",1,1,120,120,119

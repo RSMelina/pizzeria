@@ -1,0 +1,17 @@
+staff_id,first_name,last_name,position,hourly_rate
+st0001,Izabela,Smith,Chef,70
+st0002,Igor,Johnson,Head chef,86
+st0003,Kamila,Williams,Chef,70
+st0004,Maksymilian,Jones,Head chef,86
+st0005,Karolina,Brown,Chef,70
+st0006,Rafal,Davis,Head chef,86
+st0007,Weronika,Miller,Chef,70
+st0008,Tomasz,Wilson,Head chef,86
+st0009,Martyna,Moore,Delivery rider,40
+st0010,Mateusz,Taylor,Delivery rider,40
+st0011,Klaudia,Anderson,Delivery rider,40
+st0012,Maksymilian,Thomas,Delivery rider,40
+st0013,Karolina,Jackson,Delivery rider,40
+st0014,Dawid,White,Delivery rider,40
+st0015,Angelika,Harris,Delivery rider,40
+st0016,Maciej,Martin,Delivery rider,40

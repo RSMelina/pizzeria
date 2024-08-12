@@ -1,0 +1,48 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,Pizza dough ball (8 pack),2000,grams,16.88
+ING002,Tomato sauce ,4500,grams,15.56
+ING003,Mozzarella cheese,2500,grams,57.8
+ING004,Dried oregano,500,grams,23.96
+ING005,Spicy salami,3500,grams,150.56
+ING006,Chilli pepper,1000,grams,25.96
+ING007,Eggplant,1000,grams,7.6
+ING008,Parmesan cheese,2500,grams,75
+ING009,Gorgonzola cheese,3500,grams,110.56
+ING010,Ricotta cheese,1500,grams,15.96
+ING011,Anchovies,1000,grams,43.96
+ING012,Capers,1000,grams,16.64
+ING013,Pepperoni,2500,grams,96.72
+ING014,Shrimp,1000,grams,35.92
+ING015,Tuna,2000,grams,30.64
+ING016,Calamari,2500,grams,115.08
+ING017,Ham,5000,grams,129.8
+ING018,Pineapple,5000,grams,24.92
+ING019,Garlic and parsley butter,3000,grams,208.4
+ING020,Chicken wings,6000,grams,279.32
+ING021,Rotisserie chicken pieces,5000,grams,137.8
+ING022,Croutons,1250,grams,21
+ING023,Romain lettuce,7500,grams,54.88
+ING024,Caesar dressing,3800,grams,71.92
+ING025,Vanilla ice cream,4500,mililitres,61.8
+ING026,Chocolate ice cream,4500,mililitres,61.8
+ING027,Strawberry ice cream,4500,mililitres,61.8
+ING028,Pistachio ice cream,4500,mililitres,61.8
+ING029,Chocolate brownie,2500,grams,17.8
+ING030,Banoffee pie,1200,grams,4.6
+ING031,Fruit salad,5000,grams,28.48
+ING032,Coca Cola Regular 33cl,1,unit,1.64
+ING033,Coca Cola Regular 1.5l,1,unit,3.84
+ING034,Coca Cola Diet 33cl,1,unit,1.64
+ING035,Coca Cola Diet 1.5l,1,unit,3.84
+ING036,Sprite Regular 33cl,1,unit,1.64
+ING037,Sprite Regular 1.5l,1,unit,3.84
+ING038,Sprite Diet 33cl,1,unit,1.64
+ING039,Sprite Diet 1.5l,1,unit,3.84
+ING040,Fanta Regular 33cl,1,unit,1.64
+ING041,Fanta Regular 1.5l,1,unit,3.84
+ING042,Fanta Diet 33cl,1,unit,1.64
+ING043,Fanta Diet 1.5l,1,unit,3.84
+ING044,San Pelligrino 33cl,1,unit,1.44
+ING045,San Pelligrino 1.5l,1,unit,3.44
+ING046,Perrier 33cl,1,unit,1.44
+ING047,Perrier 1.5l,1,unit,3.44

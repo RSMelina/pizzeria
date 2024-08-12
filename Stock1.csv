@@ -1,0 +1,110 @@
+item_name,ing_id,ing_name,ing_weight,ing_price,order_quantity,recipe_quantity,ordered_weight,unit_cost,ingredient_cost
+"Pizza Margherita Reg",ING004,"Dried oregano",500,23.96,18,5,90,0.047920,4.312800
+"Pizza Margherita Reg",ING003,"Mozzarella cheese",2500,57.80,18,170,3060,0.023120,70.747200
+"Pizza Margherita Reg",ING002,"Tomato sauce ",4500,15.56,18,80,1440,0.003458,4.979199
+"Pizza Margherita Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,18,250,4500,0.008440,37.980000
+"Pizza Diavola (hot) Reg",ING006,"Chilli pepper",1000,25.96,23,10,230,0.025960,5.970800
+"Pizza Diavola (hot) Reg",ING005,"Spicy salami",3500,150.56,23,50,1150,0.043017,49.469713
+"Pizza Diavola (hot) Reg",ING003,"Mozzarella cheese",2500,57.80,23,170,3910,0.023120,90.399200
+"Pizza Diavola (hot) Reg",ING002,"Tomato sauce ",4500,15.56,23,80,1840,0.003458,6.362310
+"Pizza Diavola (hot) Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,23,250,5750,0.008440,48.530000
+"Pizza Quattro Formaggi Large",ING010,"Ricotta cheese",1500,15.96,20,180,3600,0.010640,38.304000
+"Pizza Quattro Formaggi Large",ING009,"Gorgonzola cheese",3500,110.56,20,180,3600,0.031589,113.718856
+"Pizza Quattro Formaggi Large",ING008,"Parmesan cheese",2500,75.00,20,180,3600,0.030000,108.000000
+"Pizza Quattro Formaggi Large",ING003,"Mozzarella cheese",2500,57.80,20,200,4000,0.023120,92.480000
+"Pizza Quattro Formaggi Large",ING002,"Tomato sauce ",4500,15.56,20,100,2000,0.003458,6.915554
+"Pizza Quattro Formaggi Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,20,300,6000,0.008440,50.640000
+Breadsticks,ING001,"Pizza dough ball (8 pack)",2000,16.88,46,250,11500,0.008440,97.060000
+"Caesar Salad",ING024,"Caesar dressing",3800,71.92,37,20,740,0.018926,14.005473
+"Caesar Salad",ING023,"Romain lettuce",7500,54.88,37,100,3700,0.007317,27.074132
+"Caesar Salad",ING022,Croutons,1250,21.00,37,50,1850,0.016800,31.080000
+"Caesar Salad",ING021,"Rotisserie chicken pieces",5000,137.80,37,120,4440,0.027560,122.366400
+"Strawberry Ice cream",ING027,"Strawberry ice cream",4500,61.80,9,100,900,0.013733,12.360000
+"San Pelligrino 33cl",ING044,"San Pelligrino 33cl",1,1.44,4,1,4,1.440000,5.760000
+"Pizza Napolitana Reg",ING012,Capers,1000,16.64,14,5,70,0.016640,1.164800
+"Pizza Napolitana Reg",ING011,Anchovies,1000,43.96,14,100,1400,0.043960,61.544000
+"Pizza Napolitana Reg",ING003,"Mozzarella cheese",2500,57.80,14,170,2380,0.023120,55.025600
+"Pizza Napolitana Reg",ING002,"Tomato sauce ",4500,15.56,14,80,1120,0.003458,3.872710
+"Pizza Napolitana Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,14,250,3500,0.008440,29.540000
+"Pistachio Ice cream",ING028,"Pistachio ice cream",4500,61.80,6,100,600,0.013733,8.240000
+"Chocolate Ice cream",ING026,"Chocolate ice cream",4500,61.80,8,100,800,0.013733,10.986666
+"Chocolate Brownie",ING029,"Chocolate brownie",2500,17.80,29,75,2175,0.007120,15.486000
+"Pizza Margherita Large",ING004,"Dried oregano",500,23.96,7,8,56,0.047920,2.683520
+"Pizza Margherita Large",ING003,"Mozzarella cheese",2500,57.80,7,200,1400,0.023120,32.368000
+"Pizza Margherita Large",ING002,"Tomato sauce ",4500,15.56,7,100,700,0.003458,2.420444
+"Pizza Margherita Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,7,300,2100,0.008440,17.724000
+"Pizza Napolitana Large",ING012,Capers,1000,16.64,9,7,63,0.016640,1.048320
+"Pizza Napolitana Large",ING011,Anchovies,1000,43.96,9,50,450,0.043960,19.782000
+"Pizza Napolitana Large",ING003,"Mozzarella cheese",2500,57.80,9,200,1800,0.023120,41.616000
+"Pizza Napolitana Large",ING002,"Tomato sauce ",4500,15.56,9,100,900,0.003458,3.111999
+"Pizza Napolitana Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,9,300,2700,0.008440,22.788000
+"Chicken Wings",ING020,"Chicken wings",6000,279.32,30,120,3600,0.046553,167.591999
+"Banoffee Pie",ING030,"Banoffee pie",1200,4.60,31,120,3720,0.003833,14.259999
+"Vanilla Ice cream",ING025,"Vanilla ice cream",4500,61.80,8,100,800,0.013733,10.986666
+"Coca Cola Regular 1.5l",ING033,"Coca Cola Regular 1.5l",1,3.84,10,1,10,3.840000,38.400000
+"Pizza Parmigiana Reg",ING008,"Parmesan cheese",2500,75.00,9,170,1530,0.030000,45.900000
+"Pizza Parmigiana Reg",ING007,Eggplant,1000,7.60,9,120,1080,0.007600,8.208000
+"Pizza Parmigiana Reg",ING003,"Mozzarella cheese",2500,57.80,9,170,1530,0.023120,35.373600
+"Pizza Parmigiana Reg",ING002,"Tomato sauce ",4500,15.56,9,80,720,0.003458,2.489599
+"Pizza Parmigiana Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,9,250,2250,0.008440,18.990000
+"Coca Cola Diet 33cl",ING034,"Coca Cola Diet 33cl",1,1.64,8,1,8,1.640000,13.120000
+"Pizza Diavola (hot) Large",ING006,"Chilli pepper",1000,25.96,27,15,405,0.025960,10.513800
+"Pizza Diavola (hot) Large",ING005,"Spicy salami",3500,150.56,27,70,1890,0.043017,81.302398
+"Pizza Diavola (hot) Large",ING003,"Mozzarella cheese",2500,57.80,27,200,5400,0.023120,124.848000
+"Pizza Diavola (hot) Large",ING002,"Tomato sauce ",4500,15.56,27,100,2700,0.003458,9.335998
+"Pizza Diavola (hot) Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,27,300,8100,0.008440,68.364000
+"Pizza Pepperoni Large",ING013,Pepperoni,2500,96.72,18,240,4320,0.038688,167.132160
+"Pizza Pepperoni Large",ING003,"Mozzarella cheese",2500,57.80,18,200,3600,0.023120,83.232000
+"Pizza Pepperoni Large",ING002,"Tomato sauce ",4500,15.56,18,100,1800,0.003458,6.223999
+"Pizza Pepperoni Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,18,300,5400,0.008440,45.576000
+"Coca Cola Regular 33cl",ING032,"Coca Cola Regular 33cl",1,1.64,14,1,14,1.640000,22.960000
+"Pizza Seafood Reg",ING016,Calamari,2500,115.08,6,150,900,0.046032,41.428800
+"Pizza Seafood Reg",ING015,Tuna,2000,30.64,6,150,900,0.015320,13.788000
+"Pizza Seafood Reg",ING014,Shrimp,1000,35.92,6,150,900,0.035920,32.328000
+"Pizza Seafood Reg",ING003,"Mozzarella cheese",2500,57.80,6,170,1020,0.023120,23.582400
+"Pizza Seafood Reg",ING002,"Tomato sauce ",4500,15.56,6,80,480,0.003458,1.659733
+"Pizza Seafood Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,6,250,1500,0.008440,12.660000
+"Garlic Bread",ING019,"Garlic and parsley butter",3000,208.40,17,15,255,0.069467,17.714000
+"Garlic Bread",ING001,"Pizza dough ball (8 pack)",2000,16.88,17,250,4250,0.008440,35.870000
+"Fruit Salad",ING031,"Fruit salad",5000,28.48,10,150,1500,0.005696,8.544000
+"Perrier 1.5l",ING047,"Perrier 1.5l",1,3.44,1,1,1,3.440000,3.440000
+"Sprite Regular 1.5l",ING037,"Sprite Regular 1.5l",1,3.84,11,1,11,3.840000,42.240000
+"Fanta Regular 33cl",ING040,"Fanta Regular 33cl",1,1.64,9,1,9,1.640000,14.760000
+"Fanta Regular 1.5l",ING041,"Fanta Regular 1.5l",1,3.84,6,1,6,3.840000,23.040000
+"Pizza Quattro Formaggi Reg",ING010,"Ricotta cheese",1500,15.96,10,150,1500,0.010640,15.960000
+"Pizza Quattro Formaggi Reg",ING009,"Gorgonzola cheese",3500,110.56,10,150,1500,0.031589,47.382857
+"Pizza Quattro Formaggi Reg",ING008,"Parmesan cheese",2500,75.00,10,150,1500,0.030000,45.000000
+"Pizza Quattro Formaggi Reg",ING003,"Mozzarella cheese",2500,57.80,10,170,1700,0.023120,39.304000
+"Pizza Quattro Formaggi Reg",ING002,"Tomato sauce ",4500,15.56,10,80,800,0.003458,2.766222
+"Pizza Quattro Formaggi Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,10,250,2500,0.008440,21.100000
+"San Pelligrino 1.5l",ING045,"San Pelligrino 1.5l",1,3.44,9,1,9,3.440000,30.960000
+"Pizza Seafood Large",ING016,Calamari,2500,115.08,2,175,350,0.046032,16.111200
+"Pizza Seafood Large",ING015,Tuna,2000,30.64,2,175,350,0.015320,5.362000
+"Pizza Seafood Large",ING014,Shrimp,1000,35.92,2,175,350,0.035920,12.572000
+"Pizza Seafood Large",ING003,"Mozzarella cheese",2500,57.80,2,200,400,0.023120,9.248000
+"Pizza Seafood Large",ING002,"Tomato sauce ",4500,15.56,2,100,200,0.003458,0.691555
+"Pizza Seafood Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,2,300,600,0.008440,5.064000
+"Perrier 33cl",ING046,"Perrier 33cl",1,1.44,3,1,3,1.440000,4.320000
+"Pizza Hawaiian Reg",ING018,Pineapple,5000,24.92,1,100,100,0.004984,0.498400
+"Pizza Hawaiian Reg",ING017,Ham,5000,129.80,1,130,130,0.025960,3.374800
+"Pizza Hawaiian Reg",ING003,"Mozzarella cheese",2500,57.80,1,170,170,0.023120,3.930400
+"Pizza Hawaiian Reg",ING002,"Tomato sauce ",4500,15.56,1,80,80,0.003458,0.276622
+"Pizza Hawaiian Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,1,250,250,0.008440,2.110000
+"Pizza Parmigiana Large",ING008,"Parmesan cheese",2500,75.00,10,200,2000,0.030000,60.000000
+"Pizza Parmigiana Large",ING007,Eggplant,1000,7.60,10,150,1500,0.007600,11.400000
+"Pizza Parmigiana Large",ING003,"Mozzarella cheese",2500,57.80,10,200,2000,0.023120,46.240000
+"Pizza Parmigiana Large",ING002,"Tomato sauce ",4500,15.56,10,100,1000,0.003458,3.457777
+"Pizza Parmigiana Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,10,300,3000,0.008440,25.320000
+"Sprite Regular 33cl",ING036,"Sprite Regular 33cl",1,1.64,3,1,3,1.640000,4.920000
+"Pizza Hawaiian Large",ING018,Pineapple,5000,24.92,6,120,720,0.004984,3.588480
+"Pizza Hawaiian Large",ING017,Ham,5000,129.80,6,150,900,0.025960,23.364000
+"Pizza Hawaiian Large",ING003,"Mozzarella cheese",2500,57.80,6,200,1200,0.023120,27.744000
+"Pizza Hawaiian Large",ING002,"Tomato sauce ",4500,15.56,6,100,600,0.003458,2.074666
+"Pizza Hawaiian Large",ING001,"Pizza dough ball (8 pack)",2000,16.88,6,300,1800,0.008440,15.192000
+"Pizza Pepperoni Reg",ING013,Pepperoni,2500,96.72,10,200,2000,0.038688,77.376000
+"Pizza Pepperoni Reg",ING003,"Mozzarella cheese",2500,57.80,10,170,1700,0.023120,39.304000
+"Pizza Pepperoni Reg",ING002,"Tomato sauce ",4500,15.56,10,80,800,0.003458,2.766222
+"Pizza Pepperoni Reg",ING001,"Pizza dough ball (8 pack)",2000,16.88,10,250,2500,0.008440,21.100000
+"Sprite Diet 33cl",ING038,"Sprite Diet 33cl",1,1.64,1,1,1,1.640000,1.640000
+"Fanta Diet 1.5l",ING043,"Fanta Diet 1.5l",1,3.84,2,1,2,3.840000,7.680000
+"Coca Cola Diet 1.5l",ING035,"Coca Cola Diet 1.5l",1,3.84,1,1,1,3.840000,3.840000
