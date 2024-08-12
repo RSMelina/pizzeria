@@ -2,6 +2,7 @@
 
 Overview
 This project aims to analyze the inventory, staff, and order data of a pizzeria to optimize operational efficiency and enhance decision-making. Using SQL, the relevant data was extracted and processed, followed by the creation of interactive dashboards in Looker, connected through a free Google Cloud Platform (GCP) instance.
+However, since GCP free credits are limited, Im uploading the csv version.
 
 Objectives
 
